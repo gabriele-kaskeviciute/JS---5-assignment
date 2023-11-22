@@ -1,0 +1,30 @@
+body {
+    background: skyblue;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    letter-spacing: 2px;
+}
+
+button {
+    font-weight: bold;
+    padding: 10px 15px;
+    background: white;
+    border: none;
+    margin-right: 20px;
+    transition: 0.3s;
+}
+
+button:hover {
+    cursor: pointer;
+    background: black;
+    color: skyblue;
+}
+
+
+
+
+
+
